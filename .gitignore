@@ -29,3 +29,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### SSH ###
+keys
+keys.pub
+OpenSSH_8.1p1,
